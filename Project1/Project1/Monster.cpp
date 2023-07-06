@@ -3,4 +3,5 @@
 
 void CMonster::Render()
 {
+	std::cout << "Hello World!\n";
 }
